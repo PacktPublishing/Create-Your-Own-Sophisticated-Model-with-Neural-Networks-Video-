@@ -8,13 +8,12 @@ With this course you will learn the Decision Tree algorithms and Ensemble Models
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understand how and when to apply autoencoders 
-<LI>Generate new images using variational autoencoders 
-<LI>Perform encoding MNIST characters in Autoencoders 
-<LI>Train and test a Siamese neural network 
-<LI>Work with the Omniglot dataset 
-<LI>Explore the input and output of different games in OpenAI Gym 
-<LI>Develop an autonomous agent in an Atari environment with OpenAI Gym </LI></UL></DIV>
+<LI>Tuning a decision tree
+<LI>Bagging regression with nearest neighbors
+<LI>Tuning an AdaBoost regressor
+<LI>Using SGD for classification
+<LI>Exploring the Perceptron classifier
+<LI>Stack with a neural network</UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
