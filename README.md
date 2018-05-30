@@ -13,7 +13,7 @@ With this course you will learn the Decision Tree algorithms and Ensemble Models
 <LI>Tuning an AdaBoost regressor
 <LI>Using SGD for classification
 <LI>Exploring the Perceptron classifier
-<LI>Stack with a neural network</UL></DIV>
+<LI>Stack with a neural network</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
